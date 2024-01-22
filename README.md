@@ -10,7 +10,7 @@
 
 1. Write a solution to the challenge described below.
 
-1. Once you are finished, share your assignment with the Encord team: go to your repository on github.com, click on the “Settings” tab, then on “Collaborators”, and add the github user “encord-interviewers” as a collaborator.
+1. Once you are finished, compress your solution and send it by email to engineering-interviewers@encord.com.
 
 ## Problem description
 
