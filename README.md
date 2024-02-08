@@ -44,7 +44,6 @@ On clicking the PREDICT button, the following should happen:
 - A dialog box asking for ‘Title’ and ‘Description’ of the prediction should be displayed. The dialog box should have option to Submit and Cancel:
 - On clicking submit the request to the JSON server should be made, saving the response against the image.
 - On successful completion of the API request a single new entry would be added to the Predictions tab.
-- On a failing API request, show an error message to the user.
 
 #### Predictions
 
