@@ -17,7 +17,7 @@
 ### Introduction
 
 
-Please build a React-based application to satisfy the brief specified below. Feel free to bring in any additional frameworks or dependencies to help in development. We may just ask you to explain these choices.
+Please build a web application to satisfy the brief specified below. Feel free to bring in any additional frameworks or dependencies to help in development. We may just ask you to explain these choices.
 
 We ask you to use [json-server](https://www.npmjs.com/package/json-server) package to stub out the API request this application will make using the [db.json](./assets/db.json) file. 
 The application only needs to work with the provided [image](./assets/orange.jpg) and [db.json](./assets/db.json) response - no other APIs is needed.
@@ -69,4 +69,4 @@ The submission will be evaluated on a number of criteria including:
 - Functionality matching the brief
 - UI and UX
 - Appropriate use of web technologies and standards - HTML / CSS / Browser APIs
-- Code structure, error handling, etc
+- State management, error handling, etc
