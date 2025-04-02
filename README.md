@@ -25,19 +25,19 @@ interactions that customers use to create annotations on their source data,
 such as images and videos. 
 
 To demonstrate your skills in this area we would like you to create a playable
-tetris game within the browser! We are looking for you to spend around 4hrs on
-this so you have these constraints:
+tetris game within the browser! We are looking for you to spend around 4 hours on
+this task, and so have placed the following constraints:
 
 - The available shapes are the 7 standard tetronimos:
 
   <img src="./assets/pieces.png" width="300px" />
 
-- There is a tetris grid of 10 columns wide and 20 rows tall with a "start game"
+- The game is played on a grid of 10 columns wide and 20 rows tall with a "start game"
   button at the top:
 
   <img src="./assets/grid.png" width="200px" />
 
-- When the "start game" button is pressed a tetronimo at random is released 
+- When the "start game" button is pressed, the game begins and a tetronimo at random is released 
   from the top left corder of the grid:
 
   <img src="./assets/piece-released.png" width="200px" />
@@ -48,19 +48,19 @@ this so you have these constraints:
 - When a piece has landed then it is placed in that position and all rows that
   are full are removed from the grid. This could be multiple rows.
 
-- After any rows have been cleared (if required) then another piece is released 
-  at the top of the grid like before.
+- After any full rows have been cleared, another piece is released 
+  at the top of the grid.
 
-- The game stops when a piece is released but cannot enter the grid. At this
-  point a "new game" button appears which when clicked will clear the grid and
+- The game stops when a piece is released but cannot enter the grid, because another 
+  piece blocks it. A "New Game" button appears which when clicked will clear the grid and
   start another game.
 
   <img src="./assets/game-ended.png" width="200px" />
 
 ### Controls
 
-Of course this is tetris so you need to be able to control it! However we only
-want you to allow these specific keys:
+Of course this is tetris so the player need to be able to control their pieces! However, 
+to limit the scope, we only want you to implement these specific keys:
 
 - `leftArrow` - moves the piece to the left
 - `rightArrow` - moves the piece to the right
@@ -68,18 +68,18 @@ want you to allow these specific keys:
 
 ### Constraints
 
-We do not want features like piece rotation, scoring, levels and so on in this 
-game as we want to keep it constrained and be able to evaluate submissions 
-fairly. As mentioned we want you to spend 4hrs or so on this. 
+We do not want you to implement features like piece rotation, scoring, levels and so on in this 
+game as we want to keep the scope constrained so that we are able to evaluate submissions 
+fairly. As mentioned we want you to spend 4 hours or so on this. 
 
 
 ## Evaluation
 
-We are not looking for the perfect tetris game but one that illustrates you
-can build the appropriate thing for the time you have - which is an essential 
+We are not looking for the perfect tetris game but rather one that illustrates you
+can build the appropriate thing for the time you have, which is an essential 
 part of working at a startup.
 
-The submission will be evaluated on a number of criteria including:
+Your submission will be evaluated on a number of criteria including:
 
 - Functionality matching the brief
 - UI and UX
@@ -93,9 +93,9 @@ complex live coding challenge.
 
 ## Final worlds
 
-We understand this is quite a challenge but it's fairly representative in terms 
+We understand this is not a small task but it's fairly representative in terms 
 of the minimum complexity of work you'll be facing at Encord in the frontend.
-However You have been asked to do this as we believe you are capable of doing 
+However, you have been asked to do this because we believe you are capable of doing 
 it.
 
 Good luck and have fun!!
