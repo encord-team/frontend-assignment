@@ -3,13 +3,6 @@
 
 ## Instructions
 
-1. Create a private github repository either on github.com or using the 
-[Github CLI](https://cli.github.com/):
-
-   ```
-   gh repo create encord-fe-assignment
-   ```
-
 1. Write a solution to the challenge described below.
 
 1. Once you are finished, compress your solution and send it by email to 
