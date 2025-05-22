@@ -91,7 +91,7 @@ If you are successful in this challenge then you will be invited for another
 complex live coding challenge.
 
 
-## Final worlds
+## Final words
 
 We understand this is not a small task but it's fairly representative in terms 
 of the minimum complexity of work you'll be facing at Encord in the frontend.
