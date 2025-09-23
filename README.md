@@ -42,8 +42,8 @@ this task, and so have placed the following constraints:
 
   <img src="./assets/piece-released.png" width="200px" />
 
-- Every second the piece falls one row until it can go no further as it either 
-  hits the bottom of the grid or lands on top of another piece.
+- Every second the piece falls one row until it can go no further because it would move below the
+  bottom of the grid or occupy the same space as another piece.
 
 - When a piece has landed then it is placed in that position and all rows that
   are full are removed from the grid. This could be multiple rows.
