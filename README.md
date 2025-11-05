@@ -32,15 +32,11 @@ this task, and so have placed the following constraints:
 
   <img src="./assets/pieces.png" width="300px" />
 
-- The game is played on a grid of 10 columns wide and 20 rows tall with a "start game"
-  button at the top:
+- The game is played on a grid of 10 columns wide and 20 rows tall.
 
-  <img src="./assets/grid.png" width="200px" />
+- The user should be able to start and restart the game.
 
-- When the "start game" button is pressed, the game begins and a tetronimo at random is released 
-  from the top left corder of the grid:
-
-  <img src="./assets/piece-released.png" width="200px" />
+- When the game begins a random tetronimo is released from the top left corder of the grid.
 
 - Every second the piece falls one row until it can go no further because it would move below the
   bottom of the grid or occupy the same space as another piece.
@@ -52,10 +48,7 @@ this task, and so have placed the following constraints:
   at the top of the grid.
 
 - The game stops when a piece is released but cannot enter the grid, because another 
-  piece blocks it. A "New Game" button appears which when clicked will clear the grid and
-  start another game.
-
-  <img src="./assets/game-ended.png" width="200px" />
+  piece blocks it. The user should be able to start the game again.
 
 ### Controls
 
