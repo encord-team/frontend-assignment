@@ -28,7 +28,7 @@ To demonstrate your skills in this area we would like you to create a playable
 tetris game within the browser! We are looking for you to spend around 4 hours on
 this task, and so have placed the following constraints:
 
-- The available shapes are the 7 standard tetronimos:
+- The available shapes are the 7 standard tetrominos:
 
   <img src="./assets/pieces.png" width="300px" />
 
@@ -36,7 +36,7 @@ this task, and so have placed the following constraints:
 
 - The user should be able to start and restart the game.
 
-- When the game begins a random tetronimo is released from the top left corder of the grid.
+- When the game begins a random tetromino is released from the top left corder of the grid.
 
 - Every second the piece falls one row until it can go no further because it would move below the
   bottom of the grid or occupy the same space as another piece.
